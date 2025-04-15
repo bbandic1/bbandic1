@@ -2,9 +2,9 @@ Computer Science student based in Sarajevo, Bosnia and Herzegovina, focusing on 
 
 My practical experience includes:
 *   **Full-stack Web Development**
-*   **Game Development** (Unreal Engine, Unity)
-*   **Mobile Application Development** (Android Studio)
 *   **AI Applications** (including development with Neural Networks and Web Scraping techniques)
+*   **Mobile Application Development** (Android Studio)
+*   **Game Development** (Unreal Engine, Unity)
 
 In the areas of **NLP** and **Language Corpus Development**, I gained further experience during a research and training stay focused on building and maintaining language corpora for linguistic research (part of the German Studies Institute Partnership Heidelberg-Mannheim-Sarajevo), utilizing tools such as CQPweb.
 
@@ -67,10 +67,6 @@ Here are some of the projects I've worked on:
 <!-- Snake animation requires GitHub Action setup: .github/workflows/main.yml -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbandic1&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Benjamin Bandić's Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bbandic1/bbandic1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
