@@ -4,7 +4,7 @@ My practical experience includes:
 *   **Full-stack Web Development**
 *   **AI Applications** (including development with Neural Networks and Web Scraping techniques)
 *   **Mobile Application Development**
-*   **Game Development** (Unreal Engine, Unity)
+*   **Game Development** 
 
 In the areas of **NLP** and **Language Corpus Development**, I gained further experience during a research and training stay focused on building and maintaining language corpora for linguistic research (part of the German Studies Institute Partnership Heidelberg-Mannheim-Sarajevo), utilizing tools such as CQPweb.
 
@@ -32,11 +32,11 @@ I am committed to applying computer science principles to solve complex problems
 </div>
 
 ##  Projects
-<div align="center">
   
 Here are some of the projects I've worked on:
 
-
+<div align="center">
+  
 [![Web-Technology Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Web-Technology&theme=radical&show_owner=true)](https://github.com/bbandic1/Web-Technology)
 [![Digital-Steganography Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Digital-Steganography&theme=radical&show_owner=true)](https://github.com/bbandic1/Digital-Steganography)
 [![Computer-Graphics Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Computer-Graphics&theme=radical&show_owner=true)](https://github.com/bbandic1/Computer-Graphics)
