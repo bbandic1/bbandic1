@@ -1,58 +1,97 @@
-name: Generate Snake Animation
+name: GitHub Snake Game
 
-# Controls when the action will run
+
+
 on:
-  # Run automatically every 12 hours
-  schedule:
-    - cron: "0 */12 * * *" # You can adjust the schedule if needed
 
-  # Allows you to run this workflow manually from the Actions tab
+  # Schedule the workflow to run daily at midnight UTC
+
+  schedule:
+
+    - cron: "0 0 * * *"
+
+
+
+  # Allow manual triggering of the workflow
+
   workflow_dispatch:
 
-  # Also run on push events targeting the main branch (optional)
-  # push:
-  #   branches:
-  #     - main # Or your default branch name
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
+  # Trigger the workflow on pushes to the main branch
+
+  push:
+
+    branches:
+
+      - main
+
+
+
 jobs:
-  # This workflow contains a single job called "generate"
+
   generate:
-    # The type of runner that the job will run on
+
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    timeout-minutes: 10
+
+
+
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - name: Checkout repository
+
+      # Step 1: Checkout the repository
+
+      - name: Checkout Repository
+
         uses: actions/checkout@v3
 
-      # Generates the snake SVG
-      - name: Generate snake animation
+
+
+      # Step 2: Generate the snake animations
+
+      - name: Generate GitHub Contributions Snake Animations
+
         uses: Platane/snk@v3
+
         with:
-          # Your GitHub username for fetching contributions
+
+          # GitHub username to generate the animation for
+
           github_user_name: ${{ github.repository_owner }}
 
-          # List of files to generate
-          # Format: {filename}.{format} -> {filename}.svg / {filename}.gif / {filename}.pty
-          #palette=github-dark used for dark theme. Replace github-dark with default color or others
+
+
+          # Define the output files and their configurations
+
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+            dist/github-snake.svg
+
+            dist/github-snake-dark.svg?palette=github-dark
+
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-        # Environment variable required by the action
         env:
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Pushes the generated files to the 'output' branch
-      - name: Push changes
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+
+
+      # Step 3: Deploy the generated files to the 'output' branch
+
+      - name: Deploy to Output Branch
+
+        uses: peaceiris/actions-gh-pages@v3
+
         with:
-          # The branch the action should deploy to.
-          target_branch: output
-          # The folder the action should deploy.
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+          publish_dir: ./dist
+
+          publish_branch: output
+
+          # Optionally, you can set a custom commit message
+
+          commit_message: "Update snake animation [skip ci]"
