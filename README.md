@@ -10,8 +10,6 @@ In the areas of **NLP** and **Language Corpus Development**, I gained further ex
 
 I am committed to applying computer science principles to solve complex problems and contribute to technological advancements across various domains. I actively seek opportunities to expand my skillset and engage in challenging projects.
 
----
-
 ## Skills & Technologies
 
 Here's a comprehensive overview of the tools, languages, and technologies I work with:
@@ -47,7 +45,11 @@ Here's a comprehensive overview of the tools, languages, and technologies I work
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/) [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/) [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) [![Simulink](https://img.shields.io/badge/Simulink-D96A23?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/simulink.html)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/) [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
----
+<div align="center">
+  
+![snake gif](https://github.com/bbandic1/bbandic1/blob/output/github-snake.svg)
+
+</div>
 
 ## Projects
 
@@ -60,10 +62,8 @@ Here are some of the projects I've worked on:
 [![OOAD-TIM28-VitalFlow Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=OOAD-TIM28-VitalFlow&theme=radical&show_owner=true)](https://github.com/bbandic1/OOAD-TIM28-VitalFlow)
 [![EcoVision Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=EcoVision&theme=radical&show_owner=true)](https://github.com/bbandic1/EcoVision)
 
----
 
-## Languages & Contribution History
-
+## Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbandic1&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Benjamin Bandić's Top Languages" />
 </p>
