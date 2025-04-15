@@ -67,7 +67,3 @@ Here are some of the projects I've worked on:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbandic1&layout=compact&theme=radical&hide=jupyter%20notebook" alt="Benjamin Bandić's Top Languages" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bbandic1/bbandic1/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
