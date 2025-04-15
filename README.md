@@ -12,7 +12,7 @@ I am committed to applying computer science principles to solve complex problems
 
 ## Skills & Technologies
 
-Here's a comprehensive overview of the tools, languages, and technologies I work with:
+<div align="center">
 
 **Languages:**
 
@@ -48,16 +48,20 @@ Here's a comprehensive overview of the tools, languages, and technologies I work
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/) [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com/) [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html) [![Simulink](https://img.shields.io/badge/Simulink-D96A23?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/simulink.html)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io/) [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
-##  Projects
+</div>
 
+##  Projects
+<div align="center">
+  
 Here are some of the projects I've worked on:
 
-<div align=center>
+
 [![Web-Technology Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Web-Technology&theme=radical&show_owner=true)](https://github.com/bbandic1/Web-Technology)
 [![Digital-Steganography Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Digital-Steganography&theme=radical&show_owner=true)](https://github.com/bbandic1/Digital-Steganography)
 [![Computer-Graphics Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Computer-Graphics&theme=radical&show_owner=true)](https://github.com/bbandic1/Computer-Graphics)
 [![Android-Studio-Applications Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Android-Studio-Applications&theme=radical&show_owner=true)](https://github.com/bbandic1/Android-Studio-Applications)
 [![OOAD-TIM28-VitalFlow Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=OOAD-TIM28-VitalFlow&theme=radical&show_owner=true)](https://github.com/bbandic1/OOAD-TIM28-VitalFlow)
-[![EcoVision Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=EcoVision&theme=radical&show_owner=true)]
-  (https://github.com/bbandic1/EcoVision)
+[![EcoVision Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=EcoVision&theme=radical&show_owner=true)](https://github.com/bbandic1/EcoVision)
+
 </div>
+
