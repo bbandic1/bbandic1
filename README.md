@@ -39,7 +39,9 @@ I am committed to applying computer science principles to solve complex problems
 Here are some of the projects I've worked on:
 
 <div align="center">
-  
+
+[![bazaar-backend Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Software-Engineering-Group-Bazaar&repo=bazaar-backend&theme=radical&show_owner=true)](https://github.com/Software-Engineering-Group-Bazaar/bazaar-backend)
+[![bazaar-mobile-react-native Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Software-Engineering-Group-Bazaar&repo=bazaar-mobile-react-native&theme=radical&show_owner=true)](https://github.com/Software-Engineering-Group-Bazaar/bazaar-mobile-react-native)
 [![Web-Technology Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Web-Technology&theme=radical&show_owner=true)](https://github.com/bbandic1/Web-Technology)
 [![Digital-Steganography Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Digital-Steganography&theme=radical&show_owner=true)](https://github.com/bbandic1/Digital-Steganography)
 [![Computer-Graphics Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Computer-Graphics&theme=radical&show_owner=true)](https://github.com/bbandic1/Computer-Graphics)
