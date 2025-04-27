@@ -44,8 +44,9 @@ Here are some of the projects I've worked on:
 [![bazaar-backend Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Software-Engineering-Group-Bazaar&repo=bazaar-backend&theme=radical&show_owner=true)](https://github.com/Software-Engineering-Group-Bazaar/bazaar-backend)
 [![bazaar-mobile-react-native Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Software-Engineering-Group-Bazaar&repo=bazaar-mobile-react-native&theme=radical&show_owner=true)](https://github.com/Software-Engineering-Group-Bazaar/bazaar-mobile-react-native)
 [![Computer-Graphics Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Computer-Graphics&theme=radical&show_owner=true)](https://github.com/bbandic1/Computer-Graphics)
-[![Web-Technology Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Web-Technology&theme=radical&show_owner=true)](https://github.com/bbandic1/Web-Technology)
+[![Gesture.io Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Gesture.io&theme=radical&show_owner=true&cache_seconds=60)](https://github.com/bbandic1/Gesture.io)
 [![Digital-Steganography Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Digital-Steganography&theme=radical&show_owner=true)](https://github.com/bbandic1/Digital-Steganography)
+[![Web-Technology Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Web-Technology&theme=radical&show_owner=true)](https://github.com/bbandic1/Web-Technology)
 [![Android-Studio-Applications Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Android-Studio-Applications&theme=radical&show_owner=true)](https://github.com/bbandic1/Android-Studio-Applications)
 [![OOAD-TIM28-VitalFlow Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=OOAD-TIM28-VitalFlow&theme=radical&show_owner=true)](https://github.com/bbandic1/OOAD-TIM28-VitalFlow)
 
