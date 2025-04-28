@@ -4,6 +4,7 @@ My practical experience includes:
 *   **Full-stack Web Development**
 *   **AI Applications** (including development with Neural Networks and Web Scraping techniques)
 *   **Mobile Application Development**
+*   **Desktop Application Development**
 *   **Game Development** 
 
 In the areas of **NLP** and **Language Corpus Development**, I gained further experience during a research and training stay focused on building and maintaining language corpora for linguistic research (part of the German Studies Institute Partnership Heidelberg-Mannheim-Sarajevo), utilizing tools such as CQPweb.
