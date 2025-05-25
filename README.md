@@ -36,10 +36,6 @@ I am committed to applying computer science principles to solve complex problems
 [![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 
-
-
-
-
 </div>
 
 ##  Projects
@@ -59,3 +55,10 @@ Here are some of the projects I've worked on:
 
 </div>
 
+## Organizations
+
+<p align="center">
+  <a href="https://github.com/Software-Engineering-Group-Bazaar" target="_blank">
+    <img src="https://avatars.githubusercontent.com/Software-Engineering-Group-Bazaar" width="150" alt="Software Engineering Group Bazaar Logo" />
+  </a>
+</p>
