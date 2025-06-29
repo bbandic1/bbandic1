@@ -45,6 +45,8 @@ Here are some of the projects I've worked on:
 
 <div align="center">
 
+[![bazaar-backend Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=bazaar-backend&theme=radical&show_owner=true)](https://github.com/bbandic1/bazaar-backend)
+[![bazaar-mobile-react-native Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=bazaar-mobile-react-native&theme=radical&show_owner=true)](https://github.com/bbandic1/bazaar-mobile-react-native)
 [![Computer-Graphics Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Computer-Graphics&theme=radical&show_owner=true)](https://github.com/bbandic1/Computer-Graphics)
 [![Gesture.io Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Gesture.io&theme=radical&show_owner=true&cache_seconds=60)](https://github.com/bbandic1/Gesture.io)
 [![Evolving-Neural-Networks-with-PSO Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Evolving-Neural-Networks-with-PSO&theme=radical&show_owner=true)](https://github.com/bbandic1/Evolving-Neural-Networks-with-PSO)
