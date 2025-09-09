@@ -1,4 +1,4 @@
-Computer Science student based in Sarajevo, Bosnia and Herzegovina, focusing on **Software Engineering**, **Artificial Intelligence (AI)**, **Natural Language Processing (NLP)**, **Quantum Computing**, and **Language Corpus Development**.
+Computer Science student based in Sarajevo, Bosnia and Herzegovina, focusing on **Software Engineering**, **Artificial Intelligence (AI)**, **Natural Language Processing (NLP)**, **Quantum Computing**.
 
 My practical experience includes:
 *   **Full-stack Web Development**
@@ -7,7 +7,6 @@ My practical experience includes:
 *   **Desktop Application Development**
 *   **Game Development** 
 
-In the areas of **NLP** and **Language Corpus Development**, I gained further experience during a research and training stay focused on building and maintaining language corpora for linguistic research (part of the German Studies Institute Partnership Heidelberg-Mannheim-Sarajevo), utilizing tools such as CQPweb.
 
 I am committed to applying computer science principles to solve complex problems and contribute to technological advancements across various domains. I actively seek opportunities to expand my skillset and engage in challenging projects.
 
