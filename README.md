@@ -1,4 +1,4 @@
-Computer Science student based in Sarajevo, Bosnia and Herzegovina, focusing on **Software Engineering**, **Artificial Intelligence (AI)**, **Natural Language Processing (NLP)**, **Quantum Computing**.
+Computer Science student based in Sarajevo, Bosnia and Herzegovina, focusing on **Software Engineering** and **Artificial Intelligence (AI)**.
 
 My practical experience includes:
 *   **Full-stack Web Development**
