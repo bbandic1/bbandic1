@@ -2,7 +2,7 @@ Computer Science student based in Sarajevo, Bosnia and Herzegovina, focusing on 
 
 My practical experience includes:
 *   **Full-stack Web Development**
-*   **AI Applications** (including development with Neural Networks and Web Scraping techniques)
+*   **AI Applications**
 *   **Mobile Application Development**
 *   **Desktop Application Development**
 *   **Game Development** 
