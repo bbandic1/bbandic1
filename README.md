@@ -62,4 +62,8 @@ Here are some of the projects I've worked on:
   <a href="https://github.com/Software-Engineering-Group-Bazaar" target="_blank">
     <img src="https://avatars.githubusercontent.com/Software-Engineering-Group-Bazaar" width="150" alt="Software Engineering Group Bazaar Logo" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/DSAI-AI-Laboratory-Organization" target="_blank">
+    <img src="https://avatars.githubusercontent.com/DSAI-AI-Laboratory-Organization" width="150" alt="DSAI AI Laboratory Organization Logo" />
+  </a>
 </p>
