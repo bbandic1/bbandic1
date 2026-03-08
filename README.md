@@ -39,23 +39,6 @@ I am committed to applying computer science principles to solve complex problems
 
 </div>
 
-##  Projects
-  
-Here are some of the projects I've worked on:
-
-<div align="center">
-
-[![bazaar-backend Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=bazaar-backend&theme=radical&show_owner=true)](https://github.com/bbandic1/bazaar-backend)
-[![bazaar-mobile-react-native Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=bazaar-mobile-react-native&theme=radical&show_owner=true)](https://github.com/bbandic1/bazaar-mobile-react-native)
-[![Computer-Graphics Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Computer-Graphics&theme=radical&show_owner=true)](https://github.com/bbandic1/Computer-Graphics)
-[![Gesture.io Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Gesture%2Eio&theme=radical&show_owner=true)](https://github.com/bbandic1/Gesture.io)
-[![Evolving-Neural-Networks-with-PSO Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Evolving-Neural-Networks-with-PSO&theme=radical&show_owner=true)](https://github.com/bbandic1/Evolving-Neural-Networks-with-PSO)
-[![Digital-Steganography Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Digital-Steganography&theme=radical&show_owner=true)](https://github.com/bbandic1/Digital-Steganography)
-[![Web-Technology Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Web-Technology&theme=radical&show_owner=true)](https://github.com/bbandic1/Web-Technology)
-[![Android-Studio-Applications Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=bbandic1&repo=Android-Studio-Applications&theme=radical&show_owner=true)](https://github.com/bbandic1/Android-Studio-Applications)
-
-</div>
-
 ## Organizations
 
 <p align="center">
